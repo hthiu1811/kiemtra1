@@ -13,7 +13,7 @@ import java.util.Calendar;
 import structure.Global;
 import structure.define;
 
-public class LoginFromClient extends Thread{
+public class LoginFromClient{
 
     private static final int    WAIT_INFO = 0;
     private static final int    WAIT_USERNAME = 1;
